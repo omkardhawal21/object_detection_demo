@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'Elephant'
+}
+
+item {
+    id: 2
+    name: 'Monkey'
+}
+
+item {
+    id: 3
+    name: 'Person'
+}
+
+item {
+    id: 4
+    name: 'Pig'
+}
+
+item {
+    id: 5
+    name: 'Vehicle'
+}
+
+item {
+    id: 6
+    name: 'civet'
+}
+
+item {
+    id: 7
+    name: 'deer'
+}
