@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vehicle</folder>
+	<filename>2ba4e664e5a6772a52abc4eba9546597.jpg</filename>
+	<path>C:\Users\Akshay\Desktop\hack ss\images\vehicle\2ba4e664e5a6772a52abc4eba9546597.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>34</ymin>
+			<xmax>344</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

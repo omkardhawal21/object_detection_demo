@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vehicle</folder>
+	<filename>280px-Bajaj_Tempo_Tempo_Trax_Judo_4x4_frontleft_2008-05-11_U.jpg</filename>
+	<path>C:\Users\Akshay\Desktop\hack ss\images\vehicle\280px-Bajaj_Tempo_Tempo_Trax_Judo_4x4_frontleft_2008-05-11_U.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>15</ymin>
+			<xmax>258</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

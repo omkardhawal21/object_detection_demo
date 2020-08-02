@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vehicle</folder>
+	<filename>ab1154cb10ce4c789cfce2d55cd9735103_Jeep_Tour_med.jpg</filename>
+	<path>C:\Users\Akshay\Desktop\hack ss\images\vehicle\ab1154cb10ce4c789cfce2d55cd9735103_Jeep_Tour_med.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>228</ymin>
+			<xmax>280</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

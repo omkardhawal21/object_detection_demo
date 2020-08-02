@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vehicle</folder>
+	<filename>side-view-(left)-90.jpg</filename>
+	<path>C:\Users\Akshay\Desktop\hack ss\images\vehicle\side-view-(left)-90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>79</ymin>
+			<xmax>564</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
